@@ -1,0 +1,23 @@
+.welcome-page {
+    background-image: url('https://handluggageonly.co.uk/wp-content/uploads/2017/12/Hand-Luggage-Only-10-2.jpg');
+}
+
+
+.welcome-page {
+    width: auto;
+    height: 650px;;
+}
+
+h1 {
+    color: white;
+    border: 2px solid white;
+    width: 400px;
+    margin-left: 6.5em;
+    
+    position: relative;
+    top: 6em;
+    text-align: center;
+    text-align: center;
+    font-size: 4em;
+    
+}

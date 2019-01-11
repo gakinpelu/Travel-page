@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+h1, h2, p {
+    font-family: 'Raleway', sans-serif;  
+}
+
+.mainBody {
+    background-color: beige;
+}
+
+img {
+    border: 70px solid red,
+    
+}
+
+a {
+   text-decoration: none;
+   border-bottom: 5px solid red;
+   border-right: 3px solid darkred;
+    
+
+}

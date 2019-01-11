@@ -1,0 +1,11 @@
+h1, h2 {
+    font-family: 'Raleway', sans-serif;  
+}
+
+.mainBody {
+    background-color: beige;
+}
+
+img {
+    border-bottom-color: red;
+}
